@@ -1,0 +1,15 @@
+x
+xxx
+xy
+xyyy
+xyz
+xxyyy
+xxyz
+xyzzz
+abc
+def
+xxy
+xxxyyy
+xyzabc
+yyy
+zzzz

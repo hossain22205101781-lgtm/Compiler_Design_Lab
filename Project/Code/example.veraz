@@ -1,0 +1,9 @@
+banao List friends = ["Riyad", "Sumi", "Tanveer"];
+banao int maxScore = 100;
+
+showKor "Hello, CoderBhai!";
+if (maxScore == 100) {
+    showKor "Perfect Score!";
+} else {
+    showKor "Try Again!";
+}
